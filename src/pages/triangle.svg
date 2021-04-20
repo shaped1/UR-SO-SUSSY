@@ -27,5 +27,4 @@ var ForwardRef = React.forwardRef(function (props, ref) {
     svgRef: ref
   }, props));
 });
-export default __webpack_public_path__ + "static/media/triangle.e9166ef2.svg";
 export { ForwardRef as ReactComponent };

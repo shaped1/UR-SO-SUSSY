@@ -71,5 +71,5 @@ var ForwardRef = React.forwardRef(function (props, ref) {
     svgRef: ref
   }, props));
 });
-export default __webpack_public_path__ + "static/media/logo-full.82fa53d0.svg";
+
 export { ForwardRef as ReactComponent };

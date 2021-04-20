@@ -40,5 +40,4 @@ var ForwardRef = React.forwardRef(function (props, ref) {
     svgRef: ref
   }, props));
 });
-export default __webpack_public_path__ + "static/media/down-scroll.72cde581.svg";
 export { ForwardRef as ReactComponent };
