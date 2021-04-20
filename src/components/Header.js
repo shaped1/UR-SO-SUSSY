@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link, withRouter } from "react-router-dom";
 import { openMenu, closeMenu } from "../animations";
-import { ReactComponent as Logo } from "../assets/images/logo-full.svg";
+import { ReactComponent as Logo } from "./logo-full.svg";
 
 const Header = ({ history }) => {
   const [menuOpen, setMenuOpen] = useState(false);
